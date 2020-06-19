@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-05-26T12:26:47.917+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5582" WIDTH="7980">
+         <TopMargin HEIGHT="0" WIDTH="7980" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5582" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5582" WIDTH="0" VPOS="0" HPOS="7980"/>
+         <BottomMargin HEIGHT="0" WIDTH="7980" VPOS="5582" HPOS="0"/>
+         <PrintSpace HEIGHT="5582" WIDTH="7980" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1589980565854_486"
+                       HEIGHT="158"
+                       WIDTH="3675"
+                       VPOS="223"
+                       HPOS="223">
+               <Shape>
+                  <Polygon POINTS="223,223 3898,223 3898,381 223,381"/>
+               </Shape>
+               <TextLine ID="line_1589980583722_494"
+                         BASELINE="360"
+                         HEIGHT="53"
+                         WIDTH="1519"
+                         VPOS="307"
+                         HPOS="2262">
+                  <String HEIGHT="53"
+                          WIDTH="447"
+                          VPOS="307"
+                          HPOS="2217"
+                          CONTENT="Straat"/>
+                  <SP HEIGHT="53" WIDTH="45" VPOS="307" HPOS="2664"/>
+                  <String HEIGHT="53" WIDTH="268" VPOS="307" HPOS="2530" CONTENT="of"/>
+                  <SP HEIGHT="53" WIDTH="45" VPOS="307" HPOS="2798"/>
+                  <String HEIGHT="53"
+                          WIDTH="357"
+                          VPOS="307"
+                          HPOS="2664"
+                          CONTENT="weg,"/>
+                  <SP HEIGHT="53" WIDTH="45" VPOS="307" HPOS="3022"/>
+                  <String HEIGHT="53"
+                          WIDTH="491"
+                          VPOS="307"
+                          HPOS="2887"
+                          CONTENT="plaats,"/>
+                  <SP HEIGHT="53" WIDTH="45" VPOS="307" HPOS="3379"/>
+                  <String HEIGHT="53"
+                          WIDTH="313"
+                          VPOS="307"
+                          HPOS="3245"
+                          CONTENT="enz"/>
+                  <SP HEIGHT="53" WIDTH="45" VPOS="307" HPOS="3558"/>
+                  <String HEIGHT="53" WIDTH="223" VPOS="307" HPOS="3424" CONTENT=":"/>
+                  <SP HEIGHT="53" WIDTH="45" VPOS="307" HPOS="3647"/>
+                  <String HEIGHT="53"
+                          WIDTH="313"
+                          VPOS="307"
+                          HPOS="3468"
+                          CONTENT="Broel"/>
+               </TextLine>
+               <TextLine ID="line_1589980573241_489"
+                         BASELINE="370"
+                         HEIGHT="53"
+                         WIDTH="1711"
+                         VPOS="317"
+                         HPOS="301">
+                  <String HEIGHT="53"
+                          WIDTH="326"
+                          VPOS="317"
+                          HPOS="260"
+                          CONTENT="Wijk"/>
+                  <SP HEIGHT="53" WIDTH="41" VPOS="317" HPOS="586"/>
+                  <String HEIGHT="53" WIDTH="244" VPOS="317" HPOS="464" CONTENT="of"/>
+                  <SP HEIGHT="53" WIDTH="41" VPOS="317" HPOS="708"/>
+                  <String HEIGHT="53"
+                          WIDTH="530"
+                          VPOS="317"
+                          HPOS="586"
+                          CONTENT="kwartier,"/>
+                  <SP HEIGHT="53" WIDTH="41" VPOS="317" HPOS="1116"/>
+                  <String HEIGHT="53"
+                          WIDTH="530"
+                          VPOS="317"
+                          HPOS="994"
+                          CONTENT="voorstad,"/>
+                  <SP HEIGHT="53" WIDTH="41" VPOS="317" HPOS="1523"/>
+                  <String HEIGHT="53"
+                          WIDTH="285"
+                          VPOS="317"
+                          HPOS="1401"
+                          CONTENT="enz"/>
+                  <SP HEIGHT="53" WIDTH="41" VPOS="317" HPOS="1686"/>
+                  <String HEIGHT="53" WIDTH="204" VPOS="317" HPOS="1564" CONTENT=":"/>
+                  <SP HEIGHT="53" WIDTH="41" VPOS="317" HPOS="1768"/>
+                  <String HEIGHT="53"
+                          WIDTH="407"
+                          VPOS="317"
+                          HPOS="1605"
+                          CONTENT="Amazones"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1589980593628_499"
+                       HEIGHT="225"
+                       WIDTH="3419"
+                       VPOS="144"
+                       HPOS="4406">
+               <Shape>
+                  <Polygon POINTS="4406,144 7825,144 7825,369 4406,369"/>
+               </Shape>
+               <TextLine ID="line_1589980616192_512"
+                         BASELINE="297"
+                         HEIGHT="74"
+                         WIDTH="665"
+                         VPOS="223"
+                         HPOS="7114">
+                  <String HEIGHT="74"
+                          WIDTH="786"
+                          VPOS="223"
+                          HPOS="7054"
+                          CONTENT="Bladzijde"/>
+                  <SP HEIGHT="74" WIDTH="60" VPOS="223" HPOS="7839"/>
+                  <String HEIGHT="74" WIDTH="181" VPOS="223" HPOS="7598" CONTENT="2"/>
+               </TextLine>
+               <TextLine ID="line_1589980611967_507"
+                         BASELINE="374"
+                         HEIGHT="87"
+                         WIDTH="1536"
+                         VPOS="287"
+                         HPOS="5764">
+                  <String HEIGHT="87"
+                          WIDTH="647"
+                          VPOS="287"
+                          HPOS="5683"
+                          CONTENT="Naam"/>
+                  <SP HEIGHT="87" WIDTH="81" VPOS="287" HPOS="6330"/>
+                  <String HEIGHT="87"
+                          WIDTH="566"
+                          VPOS="287"
+                          HPOS="6087"
+                          CONTENT="van"/>
+                  <SP HEIGHT="87" WIDTH="81" VPOS="287" HPOS="6653"/>
+                  <String HEIGHT="87"
+                          WIDTH="566"
+                          VPOS="287"
+                          HPOS="6411"
+                          CONTENT="het"/>
+                  <SP HEIGHT="87" WIDTH="81" VPOS="287" HPOS="6977"/>
+                  <String HEIGHT="87"
+                          WIDTH="647"
+                          VPOS="287"
+                          HPOS="6734"
+                          CONTENT="huis"/>
+                  <SP HEIGHT="87" WIDTH="81" VPOS="287" HPOS="7381"/>
+                  <String HEIGHT="87" WIDTH="243" VPOS="287" HPOS="7057" CONTENT=":"/>
+               </TextLine>
+               <TextLine ID="line_1589980768918_526"
+                         BASELINE="343"
+                         HEIGHT="52"
+                         WIDTH="938"
+                         VPOS="291"
+                         HPOS="4707">
+                  <String HEIGHT="52"
+                          WIDTH="447"
+                          VPOS="291"
+                          HPOS="4662"
+                          CONTENT="Nummer"/>
+                  <SP HEIGHT="52" WIDTH="45" VPOS="291" HPOS="5109"/>
+                  <String HEIGHT="52" WIDTH="223" VPOS="291" HPOS="4975" CONTENT="2"/>
+                  <SP HEIGHT="52" WIDTH="45" VPOS="291" HPOS="5198"/>
+                  <String HEIGHT="52"
+                          WIDTH="313"
+                          VPOS="291"
+                          HPOS="5064"
+                          CONTENT="van"/>
+                  <SP HEIGHT="52" WIDTH="45" VPOS="291" HPOS="5377"/>
+                  <String HEIGHT="52"
+                          WIDTH="313"
+                          VPOS="291"
+                          HPOS="5243"
+                          CONTENT="het"/>
+                  <SP HEIGHT="52" WIDTH="45" VPOS="291" HPOS="5556"/>
+                  <String HEIGHT="52"
+                          WIDTH="268"
+                          VPOS="291"
+                          HPOS="5377"
+                          CONTENT="huis"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

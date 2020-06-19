@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-05-26T12:27:10.861+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5582" WIDTH="7980">
+         <TopMargin HEIGHT="0" WIDTH="7980" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5582" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5582" WIDTH="0" VPOS="0" HPOS="7980"/>
+         <BottomMargin HEIGHT="0" WIDTH="7980" VPOS="5582" HPOS="0"/>
+         <PrintSpace HEIGHT="5582" WIDTH="7980" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1590078560118_2993"
+                       HEIGHT="1603"
+                       WIDTH="346"
+                       VPOS="826"
+                       HPOS="1790">
+               <Shape>
+                  <Polygon POINTS="1790,826 2136,826 2136,2429 1790,2429"/>
+               </Shape>
+               <TextLine ID="r8l4"
+                         BASELINE="959"
+                         HEIGHT="63"
+                         WIDTH="252"
+                         VPOS="896"
+                         HPOS="1808">
+                  <String HEIGHT="63"
+                          WIDTH="336"
+                          VPOS="896"
+                          HPOS="1724"
+                          CONTENT="Bruges"/>
+               </TextLine>
+               <TextLine ID="r8l5"
+                         BASELINE="1043"
+                         HEIGHT="63"
+                         WIDTH="336"
+                         VPOS="980"
+                         HPOS="1790">
+                  <String HEIGHT="63" WIDTH="168" VPOS="980" HPOS="1762" CONTENT="22"/>
+                  <SP HEIGHT="63" WIDTH="28" VPOS="980" HPOS="1930"/>
+                  <String HEIGHT="63"
+                          WIDTH="224"
+                          VPOS="980"
+                          HPOS="1846"
+                          CONTENT="mars"/>
+                  <SP HEIGHT="63" WIDTH="28" VPOS="980" HPOS="2070"/>
+                  <String HEIGHT="63"
+                          WIDTH="168"
+                          VPOS="980"
+                          HPOS="1958"
+                          CONTENT="1835"/>
+               </TextLine>
+               <TextLine ID="r8l6"
+                         BASELINE="1188"
+                         HEIGHT="60"
+                         WIDTH="294"
+                         VPOS="1128"
+                         HPOS="1814">
+                  <String HEIGHT="60"
+                          WIDTH="378"
+                          VPOS="1128"
+                          HPOS="1730"
+                          CONTENT="Wackern"/>
+               </TextLine>
+               <TextLine ID="r8l11"
+                         BASELINE="1966"
+                         HEIGHT="64"
+                         WIDTH="338"
+                         VPOS="1902"
+                         HPOS="1792">
+                  <String HEIGHT="64"
+                          WIDTH="184"
+                          VPOS="1902"
+                          HPOS="1761"
+                          CONTENT="28"/>
+                  <SP HEIGHT="64" WIDTH="31" VPOS="1902" HPOS="1946"/>
+                  <String HEIGHT="64"
+                          WIDTH="215"
+                          VPOS="1902"
+                          HPOS="1853"
+                          CONTENT="mai"/>
+                  <SP HEIGHT="64" WIDTH="31" VPOS="1902" HPOS="2069"/>
+                  <String HEIGHT="64"
+                          WIDTH="184"
+                          VPOS="1902"
+                          HPOS="1946"
+                          CONTENT="1857"/>
+               </TextLine>
+               <TextLine ID="r8l12"
+                         BASELINE="2111"
+                         HEIGHT="65"
+                         WIDTH="310"
+                         VPOS="2046"
+                         HPOS="1806">
+                  <String HEIGHT="65"
+                          WIDTH="388"
+                          VPOS="2046"
+                          HPOS="1729"
+                          CONTENT="Courtrai"/>
+               </TextLine>
+               <TextLine ID="r8l14"
+                         BASELINE="2343"
+                         HEIGHT="63"
+                         WIDTH="330"
+                         VPOS="2280"
+                         HPOS="1798">
+                  <String HEIGHT="63"
+                          WIDTH="403"
+                          VPOS="2280"
+                          HPOS="1725"
+                          CONTENT="Gulleghem"/>
+               </TextLine>
+               <TextLine ID="r8l15"
+                         BASELINE="2429"
+                         HEIGHT="67"
+                         WIDTH="328"
+                         VPOS="2362"
+                         HPOS="1804">
+                  <String HEIGHT="67"
+                          WIDTH="131"
+                          VPOS="2362"
+                          HPOS="1782"
+                          CONTENT="21"/>
+                  <SP HEIGHT="67" WIDTH="22" VPOS="2362" HPOS="1913"/>
+                  <String HEIGHT="67"
+                          WIDTH="241"
+                          VPOS="2362"
+                          HPOS="1848"
+                          CONTENT="juillet"/>
+                  <SP HEIGHT="67" WIDTH="22" VPOS="2362" HPOS="2088"/>
+                  <String HEIGHT="67"
+                          WIDTH="131"
+                          VPOS="2362"
+                          HPOS="2001"
+                          CONTENT="1832"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1590078591614_3026"
+                       HEIGHT="1618"
+                       WIDTH="1121"
+                       VPOS="826"
+                       HPOS="2196">
+               <Shape>
+                  <Polygon POINTS="2196,826 3317,826 3317,2444 2196,2444"/>
+               </Shape>
+               <TextLine ID="r9l22"
+                         BASELINE="1034"
+                         HEIGHT="52"
+                         WIDTH="244"
+                         VPOS="982"
+                         HPOS="2946">
+                  <String HEIGHT="52"
+                          WIDTH="305"
+                          VPOS="982"
+                          HPOS="2885"
+                          CONTENT="Epiciere"/>
+               </TextLine>
+               <TextLine ID="r9l23"
+                         BASELINE="1036"
+                         HEIGHT="54"
+                         WIDTH="634"
+                         VPOS="982"
+                         HPOS="2204">
+                  <String HEIGHT="54"
+                          WIDTH="272"
+                          VPOS="982"
+                          HPOS="2174"
+                          CONTENT="Veuve"/>
+                  <SP HEIGHT="54" WIDTH="30" VPOS="982" HPOS="2446"/>
+                  <String HEIGHT="54" WIDTH="181" VPOS="982" HPOS="2355" CONTENT="de"/>
+                  <SP HEIGHT="54" WIDTH="30" VPOS="982" HPOS="2536"/>
+                  <String HEIGHT="54"
+                          WIDTH="302"
+                          VPOS="982"
+                          HPOS="2446"
+                          CONTENT="Storme"/>
+                  <SP HEIGHT="54" WIDTH="30" VPOS="982" HPOS="2747"/>
+                  <String HEIGHT="54"
+                          WIDTH="211"
+                          VPOS="982"
+                          HPOS="2627"
+                          CONTENT="Jules"/>
+               </TextLine>
+               <TextLine ID="r9l24"
+                         BASELINE="1268"
+                         HEIGHT="54"
+                         WIDTH="618"
+                         VPOS="1214"
+                         HPOS="2208">
+                  <String HEIGHT="54"
+                          WIDTH="441"
+                          VPOS="1214"
+                          HPOS="2164"
+                          CONTENT="Enfant"/>
+                  <SP HEIGHT="54" WIDTH="44" VPOS="1214" HPOS="2605"/>
+                  <String HEIGHT="54"
+                          WIDTH="265"
+                          VPOS="1214"
+                          HPOS="2473"
+                          CONTENT="de"/>
+                  <SP HEIGHT="54" WIDTH="44" VPOS="1214" HPOS="2738"/>
+                  <String HEIGHT="54"
+                          WIDTH="265"
+                          VPOS="1214"
+                          HPOS="2605"
+                          CONTENT="N°"/>
+                  <SP HEIGHT="54" WIDTH="44" VPOS="1214" HPOS="2870"/>
+                  <String HEIGHT="54" WIDTH="132" VPOS="1214" HPOS="2694" CONTENT="1"/>
+               </TextLine>
+               <TextLine ID="r9l27"
+                         BASELINE="1732"
+                         HEIGHT="52"
+                         WIDTH="310"
+                         VPOS="1680"
+                         HPOS="2914">
+                  <String HEIGHT="52"
+                          WIDTH="388"
+                          VPOS="1680"
+                          HPOS="2837"
+                          CONTENT="Etudiant"/>
+               </TextLine>
+               <TextLine ID="r9l29"
+                         BASELINE="1956"
+                         HEIGHT="52"
+                         WIDTH="322"
+                         VPOS="1904"
+                         HPOS="2902">
+                  <String HEIGHT="52"
+                          WIDTH="403"
+                          VPOS="1904"
+                          HPOS="2822"
+                          CONTENT="Servante"/>
+               </TextLine>
+               <TextLine ID="r9l30"
+                         BASELINE="2104"
+                         HEIGHT="54"
+                         WIDTH="332"
+                         VPOS="2050"
+                         HPOS="2910">
+                  <String HEIGHT="54"
+                          WIDTH="406"
+                          VPOS="2050"
+                          HPOS="2836"
+                          CONTENT="Negociant"/>
+               </TextLine>
+               <TextLine ID="r9l31"
+                         BASELINE="2106"
+                         HEIGHT="56"
+                         WIDTH="574"
+                         VPOS="2050"
+                         HPOS="2198">
+                  <String HEIGHT="56"
+                          WIDTH="397"
+                          VPOS="2050"
+                          HPOS="2154"
+                          CONTENT="Epous"/>
+                  <SP HEIGHT="56" WIDTH="44" VPOS="2050" HPOS="2551"/>
+                  <String HEIGHT="56"
+                          WIDTH="265"
+                          VPOS="2050"
+                          HPOS="2419"
+                          CONTENT="de"/>
+                  <SP HEIGHT="56" WIDTH="44" VPOS="2050" HPOS="2684"/>
+                  <String HEIGHT="56"
+                          WIDTH="265"
+                          VPOS="2050"
+                          HPOS="2507"
+                          CONTENT="Azou"/>
+               </TextLine>
+               <TextLine ID="r9l32"
+                         BASELINE="2188"
+                         HEIGHT="54"
+                         WIDTH="290"
+                         VPOS="2134"
+                         HPOS="2930">
+                  <String HEIGHT="54"
+                          WIDTH="218"
+                          VPOS="2134"
+                          HPOS="2894"
+                          CONTENT="En"/>
+                  <SP HEIGHT="54" WIDTH="36" VPOS="2134" HPOS="3111"/>
+                  <String HEIGHT="54"
+                          WIDTH="254"
+                          VPOS="2134"
+                          HPOS="2966"
+                          CONTENT="toile"/>
+               </TextLine>
+               <TextLine ID="r9l33"
+                         BASELINE="2192"
+                         HEIGHT="54"
+                         WIDTH="618"
+                         VPOS="2138"
+                         HPOS="2196">
+                  <String HEIGHT="54"
+                          WIDTH="386"
+                          VPOS="2138"
+                          HPOS="2157"
+                          CONTENT="Sophie"/>
+                  <SP HEIGHT="54" WIDTH="39" VPOS="2138" HPOS="2544"/>
+                  <String HEIGHT="54"
+                          WIDTH="425"
+                          VPOS="2138"
+                          HPOS="2389"
+                          CONTENT="Constance"/>
+               </TextLine>
+               <TextLine ID="r9l34"
+                         BASELINE="2334"
+                         HEIGHT="52"
+                         WIDTH="634"
+                         VPOS="2282"
+                         HPOS="2202">
+                  <String HEIGHT="52"
+                          WIDTH="357"
+                          VPOS="2282"
+                          HPOS="2162"
+                          CONTENT="Veuve"/>
+                  <SP HEIGHT="52" WIDTH="40" VPOS="2282" HPOS="2519"/>
+                  <String HEIGHT="52"
+                          WIDTH="238"
+                          VPOS="2282"
+                          HPOS="2400"
+                          CONTENT="de"/>
+                  <SP HEIGHT="52" WIDTH="40" VPOS="2282" HPOS="2638"/>
+                  <String HEIGHT="52"
+                          WIDTH="357"
+                          VPOS="2282"
+                          HPOS="2479"
+                          CONTENT="Helhoen"/>
+               </TextLine>
+               <TextLine ID="line_1590078904030_3097"
+                         BASELINE="2422"
+                         HEIGHT="54"
+                         WIDTH="317"
+                         VPOS="2368"
+                         HPOS="2222">
+                  <String HEIGHT="54"
+                          WIDTH="423"
+                          VPOS="2368"
+                          HPOS="2187"
+                          CONTENT="Alphonse"/>
+                  <SP HEIGHT="54" WIDTH="35" VPOS="2368" HPOS="2609"/>
+                  <String HEIGHT="54" WIDTH="70" VPOS="2368" HPOS="2469" CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1590078546855_2986"
+                       HEIGHT="1536"
+                       WIDTH="1516"
+                       VPOS="889"
+                       HPOS="240">
+               <Shape>
+                  <Polygon POINTS="240,889 1756,889 1756,2425 240,2425"/>
+               </Shape>
+               <TextLine ID="r7l15"
+                         BASELINE="1033"
+                         HEIGHT="47"
+                         WIDTH="228"
+                         VPOS="986"
+                         HPOS="1296">
+                  <String HEIGHT="47"
+                          WIDTH="304"
+                          VPOS="986"
+                          HPOS="1220"
+                          CONTENT="Louise"/>
+               </TextLine>
+               <TextLine ID="r7l16"
+                         BASELINE="1039"
+                         HEIGHT="53"
+                         WIDTH="828"
+                         VPOS="986"
+                         HPOS="382">
+                  <String HEIGHT="53"
+                          WIDTH="955"
+                          VPOS="986"
+                          HPOS="255"
+                          CONTENT="Vanwaesberghe"/>
+               </TextLine>
+               <TextLine ID="r7l17"
+                         BASELINE="1273"
+                         HEIGHT="69"
+                         WIDTH="408"
+                         VPOS="1204"
+                         HPOS="364">
+                  <String HEIGHT="69"
+                          WIDTH="544"
+                          VPOS="1204"
+                          HPOS="228"
+                          CONTENT="Storme"/>
+               </TextLine>
+               <TextLine ID="r7l18"
+                         BASELINE="1269"
+                         HEIGHT="53"
+                         WIDTH="248"
+                         VPOS="1216"
+                         HPOS="1300">
+                  <String HEIGHT="53"
+                          WIDTH="331"
+                          VPOS="1216"
+                          HPOS="1217"
+                          CONTENT="Elodie"/>
+               </TextLine>
+               <TextLine ID="r7l19"
+                         BASELINE="1501"
+                         HEIGHT="57"
+                         WIDTH="304"
+                         VPOS="1444"
+                         HPOS="1300">
+                  <String HEIGHT="57"
+                          WIDTH="405"
+                          VPOS="1444"
+                          HPOS="1199"
+                          CONTENT="Edgard"/>
+               </TextLine>
+               <TextLine ID="r7l20"
+                         BASELINE="1503"
+                         HEIGHT="63"
+                         WIDTH="366"
+                         VPOS="1440"
+                         HPOS="396">
+                  <String HEIGHT="63"
+                          WIDTH="488"
+                          VPOS="1440"
+                          HPOS="274"
+                          CONTENT="Storme"/>
+               </TextLine>
+               <TextLine ID="r7l21"
+                         BASELINE="1729"
+                         HEIGHT="51"
+                         WIDTH="356"
+                         VPOS="1678"
+                         HPOS="1302">
+                  <String HEIGHT="51"
+                          WIDTH="475"
+                          VPOS="1678"
+                          HPOS="1183"
+                          CONTENT="Marcel"/>
+               </TextLine>
+               <TextLine ID="r7l22"
+                         BASELINE="1735"
+                         HEIGHT="61"
+                         WIDTH="398"
+                         VPOS="1674"
+                         HPOS="370">
+                  <String HEIGHT="61"
+                          WIDTH="531"
+                          VPOS="1674"
+                          HPOS="237"
+                          CONTENT="Storme"/>
+               </TextLine>
+               <TextLine ID="r7l23"
+                         BASELINE="1955"
+                         HEIGHT="47"
+                         WIDTH="842"
+                         VPOS="1908"
+                         HPOS="362">
+                  <String HEIGHT="47"
+                          WIDTH="982"
+                          VPOS="1908"
+                          HPOS="222"
+                          CONTENT="Vanhaverbeke"/>
+               </TextLine>
+               <TextLine ID="r7l24"
+                         BASELINE="1959"
+                         HEIGHT="53"
+                         WIDTH="322"
+                         VPOS="1906"
+                         HPOS="1306">
+                  <String HEIGHT="53"
+                          WIDTH="403"
+                          VPOS="1906"
+                          HPOS="1226"
+                          CONTENT="Léontine"/>
+               </TextLine>
+               <TextLine ID="r7l25"
+                         BASELINE="2107"
+                         HEIGHT="49"
+                         WIDTH="360"
+                         VPOS="2058"
+                         HPOS="1308">
+                  <String HEIGHT="49"
+                          WIDTH="450"
+                          VPOS="2058"
+                          HPOS="1218"
+                          CONTENT="Alphonse"/>
+               </TextLine>
+               <TextLine ID="r7l27"
+                         BASELINE="2191"
+                         HEIGHT="49"
+                         WIDTH="456"
+                         VPOS="2142"
+                         HPOS="376">
+                  <String HEIGHT="49"
+                          WIDTH="586"
+                          VPOS="2142"
+                          HPOS="246"
+                          CONTENT="Felhoen"/>
+               </TextLine>
+               <TextLine ID="r7l28"
+                         BASELINE="2339"
+                         HEIGHT="51"
+                         WIDTH="298"
+                         VPOS="2288"
+                         HPOS="1308">
+                  <String HEIGHT="51"
+                          WIDTH="397"
+                          VPOS="2288"
+                          HPOS="1209"
+                          CONTENT="Sophie"/>
+               </TextLine>
+               <TextLine ID="r7l29"
+                         BASELINE="2423"
+                         HEIGHT="55"
+                         WIDTH="408"
+                         VPOS="2368"
+                         HPOS="1288">
+                  <String HEIGHT="55"
+                          WIDTH="499"
+                          VPOS="2368"
+                          HPOS="1197"
+                          CONTENT="Constance"/>
+               </TextLine>
+               <TextLine ID="r7l30"
+                         BASELINE="2425"
+                         HEIGHT="49"
+                         WIDTH="364"
+                         VPOS="2376"
+                         HPOS="386">
+                  <String HEIGHT="49"
+                          WIDTH="546"
+                          VPOS="2376"
+                          HPOS="204"
+                          CONTENT="Azon"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r15" HEIGHT="361" WIDTH="124" VPOS="2041" HPOS="6860">
+               <Shape>
+                  <Polygon POINTS="6860,2041 6860,2402 6984,2402 6984,2041"/>
+               </Shape>
+               <TextLine ID="r15l1"
+                         BASELINE="2098"
+                         HEIGHT="57"
+                         WIDTH="124"
+                         VPOS="2041"
+                         HPOS="6860">
+                  <String HEIGHT="57"
+                          WIDTH="207"
+                          VPOS="2041"
+                          HPOS="6777"
+                          CONTENT="M.R"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1590078611590_3039"
+                       HEIGHT="1338"
+                       WIDTH="794"
+                       VPOS="834"
+                       HPOS="5286">
+               <Shape>
+                  <Polygon POINTS="5286,834 6080,834 6080,2172 5286,2172"/>
+               </Shape>
+               <TextLine ID="r13l23"
+                         BASELINE="934"
+                         HEIGHT="49"
+                         WIDTH="172"
+                         VPOS="885"
+                         HPOS="5908">
+                  <String HEIGHT="49"
+                          WIDTH="221"
+                          VPOS="885"
+                          HPOS="5859"
+                          CONTENT="juillet"/>
+               </TextLine>
+               <TextLine ID="r13l24"
+                         BASELINE="944"
+                         HEIGHT="55"
+                         WIDTH="184"
+                         VPOS="889"
+                         HPOS="5640">
+                  <String HEIGHT="55" WIDTH="102" VPOS="889" HPOS="5620" CONTENT="3"/>
+                  <SP HEIGHT="55" WIDTH="20" VPOS="889" HPOS="5722"/>
+                  <String HEIGHT="55"
+                          WIDTH="184"
+                          VPOS="889"
+                          HPOS="5640"
+                          CONTENT="juillet"/>
+               </TextLine>
+               <TextLine ID="r13l25"
+                         BASELINE="1020"
+                         HEIGHT="55"
+                         WIDTH="142"
+                         VPOS="965"
+                         HPOS="5660">
+                  <String HEIGHT="55"
+                          WIDTH="213"
+                          VPOS="965"
+                          HPOS="5589"
+                          CONTENT="1882"/>
+               </TextLine>
+               <TextLine ID="r13l26"
+                         BASELINE="1020"
+                         HEIGHT="52"
+                         WIDTH="116"
+                         VPOS="968"
+                         HPOS="5926">
+                  <String HEIGHT="52"
+                          WIDTH="174"
+                          VPOS="968"
+                          HPOS="5868"
+                          CONTENT="1882"/>
+               </TextLine>
+               <TextLine ID="r13l27"
+                         BASELINE="1018"
+                         HEIGHT="49"
+                         WIDTH="200"
+                         VPOS="969"
+                         HPOS="5340">
+                  <String HEIGHT="49"
+                          WIDTH="333"
+                          VPOS="969"
+                          HPOS="5207"
+                          CONTENT="Sam"/>
+               </TextLine>
+               <TextLine ID="r13l29"
+                         BASELINE="1160"
+                         HEIGHT="53"
+                         WIDTH="248"
+                         VPOS="1107"
+                         HPOS="5286">
+                  <String HEIGHT="53"
+                          WIDTH="303"
+                          VPOS="1107"
+                          HPOS="5258"
+                          CONTENT="Décédée"/>
+                  <SP HEIGHT="53" WIDTH="28" VPOS="1107" HPOS="5562"/>
+                  <String HEIGHT="53" WIDTH="83" VPOS="1107" HPOS="5451" CONTENT="à"/>
+               </TextLine>
+               <TextLine ID="r13l30"
+                         BASELINE="1246"
+                         HEIGHT="61"
+                         WIDTH="132"
+                         VPOS="1185"
+                         HPOS="5666">
+                  <String HEIGHT="61"
+                          WIDTH="198"
+                          VPOS="1185"
+                          HPOS="5600"
+                          CONTENT="1881"/>
+               </TextLine>
+               <TextLine ID="r13l31"
+                         BASELINE="1244"
+                         HEIGHT="54"
+                         WIDTH="248"
+                         VPOS="1190"
+                         HPOS="5290">
+                  <String HEIGHT="54"
+                          WIDTH="331"
+                          VPOS="1190"
+                          HPOS="5207"
+                          CONTENT="Wacken"/>
+               </TextLine>
+               <TextLine ID="r13l32"
+                         BASELINE="1396"
+                         HEIGHT="57"
+                         WIDTH="152"
+                         VPOS="1339"
+                         HPOS="5894">
+                  <String HEIGHT="57"
+                          WIDTH="195"
+                          VPOS="1339"
+                          HPOS="5851"
+                          CONTENT="juillet"/>
+               </TextLine>
+               <TextLine ID="r13l33"
+                         BASELINE="1398"
+                         HEIGHT="53"
+                         WIDTH="190"
+                         VPOS="1345"
+                         HPOS="5630">
+                  <String HEIGHT="53" WIDTH="106" VPOS="1345" HPOS="5609" CONTENT="3"/>
+                  <SP HEIGHT="53" WIDTH="21" VPOS="1345" HPOS="5714"/>
+                  <String HEIGHT="53"
+                          WIDTH="190"
+                          VPOS="1345"
+                          HPOS="5630"
+                          CONTENT="juillet"/>
+               </TextLine>
+               <TextLine ID="r13l34"
+                         BASELINE="1476"
+                         HEIGHT="53"
+                         WIDTH="134"
+                         VPOS="1423"
+                         HPOS="5666">
+                  <String HEIGHT="53"
+                          WIDTH="201"
+                          VPOS="1423"
+                          HPOS="5599"
+                          CONTENT="1882"/>
+               </TextLine>
+               <TextLine ID="r13l35"
+                         BASELINE="1482"
+                         HEIGHT="55"
+                         WIDTH="130"
+                         VPOS="1427"
+                         HPOS="5906">
+                  <String HEIGHT="55"
+                          WIDTH="195"
+                          VPOS="1427"
+                          HPOS="5841"
+                          CONTENT="1882"/>
+               </TextLine>
+               <TextLine ID="r13l36"
+                         BASELINE="1490"
+                         HEIGHT="65"
+                         WIDTH="196"
+                         VPOS="1425"
+                         HPOS="5334">
+                  <String HEIGHT="65"
+                          WIDTH="327"
+                          VPOS="1425"
+                          HPOS="5203"
+                          CONTENT="Sam"/>
+               </TextLine>
+               <TextLine ID="r13l37"
+                         BASELINE="1628"
+                         HEIGHT="53"
+                         WIDTH="176"
+                         VPOS="1575"
+                         HPOS="5634">
+                  <String HEIGHT="53" WIDTH="98" VPOS="1575" HPOS="5614" CONTENT="3"/>
+                  <SP HEIGHT="53" WIDTH="20" VPOS="1575" HPOS="5712"/>
+                  <String HEIGHT="53"
+                          WIDTH="176"
+                          VPOS="1575"
+                          HPOS="5634"
+                          CONTENT="juillet"/>
+               </TextLine>
+               <TextLine ID="r13l38"
+                         BASELINE="1630"
+                         HEIGHT="53"
+                         WIDTH="172"
+                         VPOS="1577"
+                         HPOS="5890">
+                  <String HEIGHT="53" WIDTH="96" VPOS="1577" HPOS="5871" CONTENT="5"/>
+                  <SP HEIGHT="53" WIDTH="19" VPOS="1577" HPOS="5966"/>
+                  <String HEIGHT="53"
+                          WIDTH="172"
+                          VPOS="1577"
+                          HPOS="5890"
+                          CONTENT="juillet"/>
+               </TextLine>
+               <TextLine ID="r13l39"
+                         BASELINE="1712"
+                         HEIGHT="53"
+                         WIDTH="136"
+                         VPOS="1659"
+                         HPOS="5912">
+                  <String HEIGHT="53"
+                          WIDTH="204"
+                          VPOS="1659"
+                          HPOS="5844"
+                          CONTENT="1882"/>
+               </TextLine>
+               <TextLine ID="r13l40"
+                         BASELINE="1716"
+                         HEIGHT="57"
+                         WIDTH="116"
+                         VPOS="1659"
+                         HPOS="5674">
+                  <String HEIGHT="57"
+                          WIDTH="174"
+                          VPOS="1659"
+                          HPOS="5616"
+                          CONTENT="1882"/>
+               </TextLine>
+               <TextLine ID="r13l41"
+                         BASELINE="1716"
+                         HEIGHT="55"
+                         WIDTH="222"
+                         VPOS="1661"
+                         HPOS="5332">
+                  <String HEIGHT="55"
+                          WIDTH="370"
+                          VPOS="1661"
+                          HPOS="5184"
+                          CONTENT="Sam"/>
+               </TextLine>
+               <TextLine ID="r13l42"
+                         BASELINE="2084"
+                         HEIGHT="55"
+                         WIDTH="216"
+                         VPOS="2029"
+                         HPOS="5610">
+                  <String HEIGHT="55"
+                          WIDTH="185"
+                          VPOS="2029"
+                          HPOS="5579"
+                          CONTENT="26"/>
+                  <SP HEIGHT="55" WIDTH="31" VPOS="2029" HPOS="5764"/>
+                  <String HEIGHT="55"
+                          WIDTH="185"
+                          VPOS="2029"
+                          HPOS="5641"
+                          CONTENT="août"/>
+               </TextLine>
+               <TextLine ID="r13l43"
+                         BASELINE="2168"
+                         HEIGHT="59"
+                         WIDTH="214"
+                         VPOS="2109"
+                         HPOS="5292">
+                  <String HEIGHT="59"
+                          WIDTH="285"
+                          VPOS="2109"
+                          HPOS="5221"
+                          CONTENT="Décédé"/>
+               </TextLine>
+               <TextLine ID="r13l44"
+                         BASELINE="2172"
+                         HEIGHT="59"
+                         WIDTH="156"
+                         VPOS="2113"
+                         HPOS="5644">
+                  <String HEIGHT="59"
+                          WIDTH="234"
+                          VPOS="2113"
+                          HPOS="5566"
+                          CONTENT="1884"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
